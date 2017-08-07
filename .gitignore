@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+npm-debug.log
+packages
+storage
+recovery
+compile-cache
+blob-store
+.node-gyp
+.apm
+nohup.out

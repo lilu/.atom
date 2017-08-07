@@ -1,0 +1,2 @@
+'.platform-win32, .platform-linux':
+  'alt-0': 'tree-view:toggle-focus'
