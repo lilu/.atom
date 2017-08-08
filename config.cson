@@ -1,11 +1,12 @@
 "*":
   core:
     autoHideMenuBar: true
-    closeDeletedFileTabs: true
+    disabledPackages: [
+      "minimap"
+    ]
     projectHome: "/home/lilu/Documents"
     telemetryConsent: "limited"
   editor:
-    fontSize: 15
     softWrap: true
     softWrapAtPreferredLineLength: true
   "exception-reporting":
